@@ -4,11 +4,11 @@ Hey there! 👋 I'm Manu Bharadwaj, and this is my repository where I showcase h
 
 ## About Me
 
-I'm Manu Bharadwaj, a passionate Software Engineer. I love to Code & Sing. This project is a result of my dedication to Javascript.
+I'm Manu Bharadwaj, a dedicated Software Developer with a passion for coding and singing. This project reflects my commitment to JavaScript development.
 
 ## Features
 
-- 📦 [HTML, CSS, JAVASCRIPT]
+- 📦 HTML, CSS, JAVASCRIPT.
 
 ## Getting Started
 
@@ -21,10 +21,10 @@ To get started with this project, follow these simple steps:
 
 If you'd like to contribute to this project, follow these steps:
 
-1. Fork the repository
-2. Create a new branch
-3. Make your changes and commit them
-4. Push to your fork and open a pull request
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes and commit them.
+4. Push to your fork and open a pull request.
 
 For major changes, please open an issue first to discuss what you would like to change.
 
