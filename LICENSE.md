@@ -1,6 +1,6 @@
 MIT License
 
-⚖️ **The MIT License (MIT)**
+📝 **The MIT License (MIT)**
 
 © 2024 Manu Bharadwaj BN
 
