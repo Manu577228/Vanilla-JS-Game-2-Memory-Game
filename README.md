@@ -1,4 +1,4 @@
-# Welcome to [Vanilla-JS-Game-2-Memory-Game]
+# Welcome to Memory Game
 
 Hey there! 👋 I'm Manu Bharadwaj, and this is my repository where I showcase how to create Memory game using Vanilla JS. If you find it useful or interesting, don't forget to give it a ⭐️!
 
