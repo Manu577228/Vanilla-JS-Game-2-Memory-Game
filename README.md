@@ -1,10 +1,10 @@
 # Welcome to [Vanilla-JS-Game-2-Memory-Game]
 
-Hey there! 👋 I'm [Manu Bharadwaj], and this is my repository where I showcase [How to create Memory game using Vanilla JS]. If you find it useful or interesting, don't forget to give it a ⭐️!
+Hey there! 👋 I'm Manu Bharadwaj, and this is my repository where I showcase how to create Memory game using Vanilla JS. If you find it useful or interesting, don't forget to give it a ⭐️!
 
 ## About Me
 
-I'm Manu Bharadwaj, a passionate [Software Engineer]. I love to [Code & Sing]. This project is a result of my dedication to [Javascript].
+I'm Manu Bharadwaj, a passionate Software Engineer. I love to Code & Sing. This project is a result of my dedication to Javascript.
 
 ## Features
 
@@ -14,8 +14,8 @@ I'm Manu Bharadwaj, a passionate [Software Engineer]. I love to [Code & Sing]. T
 
 To get started with this project, follow these simple steps:
 
-1. [Clone the repo]
-2. [Start Changing the Code according to your expectations.]
+1. Clone the repo
+2. Start Changing the Code according to your expectations.
 
 ## How to Contribute
 
@@ -46,7 +46,7 @@ Thank you for stopping by! 🌟
 
 MIT License
 
-Copyright (c) [2024] [Manu Bharadwaj BN]
+Copyright (c) 2024 Manu Bharadwaj BN
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
