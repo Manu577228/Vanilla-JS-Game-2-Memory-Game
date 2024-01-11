@@ -1,7 +1,3 @@
-# License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 # Welcome to Memory Game
 
 Hey there! 👋 I'm Manu Bharadwaj, and this is my repository where I showcase how to create Memory game using Vanilla JS. If you find it useful or interesting, don't forget to give it a ⭐️!
