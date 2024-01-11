@@ -1,5 +1,9 @@
 # Welcome to Memory Game
 
+# License
+
+This project is licensed under the [Your License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+
 Hey there! 👋 I'm Manu Bharadwaj, and this is my repository where I showcase how to create Memory game using Vanilla JS. If you find it useful or interesting, don't forget to give it a ⭐️!
 
 ## About Me
