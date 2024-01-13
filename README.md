@@ -8,7 +8,7 @@ I'm Manu Bharadwaj, a dedicated Software Developer with a passion for coding and
 
 ## Features
 
-- 📦 HTML, CSS, JAVASCRIPT.
+- 📦 HTML, CSS, JAVASCRIPT
 
 ## Getting Started
 
